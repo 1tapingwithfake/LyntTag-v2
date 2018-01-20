@@ -9,7 +9,7 @@ How to configure?
 2. Go to "setList()" function
 3. Edit tags
 
-* For example:
+For example:
 - Tags.push_back("Your tag");
 - Tags.push_back("Your tag1");
 - Tags.push_back("Your tag2");
