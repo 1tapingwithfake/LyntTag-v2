@@ -1,5 +1,5 @@
 # LyntTag-v2
-## Dynamic Clan-Tag in Game
+Dynamic Clan-Tag in Game
 
 ![Screenshot](https://i.imgur.com/LUErBlv.gif)
 
