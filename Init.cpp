@@ -13,7 +13,7 @@ CGlobals* g_pGlobals = new CGlobals();
 */
 
 EXECUTE WINAPI Init() {
-	g_pGlobals->Init("LyntTag", "bloodGodz");
+	g_pGlobals->Init("LyntTag", "sociofob");
 
 	g_pMemory->Process("csgo.exe");
 	g_pMemory->DLL.Module = g_pMemory->getModule("engine.dll");
@@ -35,14 +35,14 @@ EXECUTE WINAPI Init() {
 
 void CGlobals::setList()
 {
-	Tags.push_back("LyntTag     ");
-	Tags.push_back(" LyntTag    ");
-	Tags.push_back("  LyntTag   ");
-	Tags.push_back("   LyntTag  ");
-	Tags.push_back("    LyntTag ");
-	Tags.push_back("     LyntTag");
-	Tags.push_back("    LyntTag ");
-	Tags.push_back("   LyntTag  ");
-	Tags.push_back("  LyntTag   ");
-	Tags.push_back(" LyntTag    ");
+	Tags.push_back("sociofob     ");
+	Tags.push_back(" sociofob    ");
+	Tags.push_back("  sociofob   ");
+	Tags.push_back("   sociofob  ");
+	Tags.push_back("    sociofob ");
+	Tags.push_back("     sociofob");
+	Tags.push_back("    sociofob ");
+	Tags.push_back("   sociofob  ");
+	Tags.push_back("  sociofob   ");
+	Tags.push_back(" sociofob    ");
 }
