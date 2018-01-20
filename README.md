@@ -1,8 +1,8 @@
 # LyntTag-v2
 
-Dynamic Clan-Tag in Game
 ![Screenshot](https://i.imgur.com/LUErBlv.gif)
 
+Dynamic Clan-Tag in Game
 How to configure?
 
 1. Open Init.cpp
