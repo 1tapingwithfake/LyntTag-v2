@@ -32,8 +32,8 @@ void main()
 void CGlobals::Init(const char* cTag, const char* cActiveTag)
 {
 	printf("| Dynamic Tag Changer (Recode v2.1) \n");
-	printf("| Developed by `legenden` (Anna Golczwart) \n");
-	printf("| Contacts: /id/0x4E | vk.com/id92774 \n\n");
+	printf("| Developed by `legenden` (Anna Salvatòre) \n");
+	printf("| Contacts: /id/edgesubtle | vk.com/id92774 \n\n");
 
 	printf("| Logging: \n");
 
