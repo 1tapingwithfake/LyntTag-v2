@@ -4,10 +4,10 @@ CMemory* g_pMemory = new CMemory();
 CGlobals* g_pGlobals = new CGlobals();
 
 /*
-	Coded by Anna Golczwart (legenden)
+	Coded by Anna Salvatòre (legenden)
 	Links: [
-		https://t.me/@legenden1337
-		https://github.com/legenden1337
+		https://t.me/@tickcount
+		https://github.com/tickcount
 		https://yougame.biz/members/11619/
 	]
 */
